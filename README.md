@@ -6,7 +6,8 @@ Flash cards that lets users enter their own questions and answers.
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Gg2D85y" data-context="false" ><a href="//imgur.com/a/Gg2D85y"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/Gg2D85y" width=200><br>
+
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
