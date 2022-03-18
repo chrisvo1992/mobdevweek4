@@ -8,7 +8,6 @@ Flash cards that lets users enter their own questions and answers.
 <img src="https://i.imgur.com/3K8nT4Z.gif" width=200><br>
 
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
